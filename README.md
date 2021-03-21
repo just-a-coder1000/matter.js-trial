@@ -1,1 +1,2 @@
-# matter.js-trial
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
